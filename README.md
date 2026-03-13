@@ -4,6 +4,10 @@
 
 - <b>AWS</b>
   - [AWS-Cloud-Environment-Setup-Account-Creation-Free-Tier-Access](https://github.com/benhost02/AWS-Cloud-Environment-Setup-Account-Creation-Free-Tier-Access)
+
+- <b>Azure</b>
+  - [HOW-TO-HOST-A-STATIC-WEBSITE](https://github.com/Chizzyfes/HOW-TO-HOST-A-STATIC-WEBSITE)
+ 
  
 <h2>👨‍💻 DevOps Development Projects:</h2>
 
